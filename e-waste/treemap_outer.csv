@@ -1,0 +1,13 @@
+country,parent,ewaste,ewaste_capita,rank_capita,income
+origin,,,,,
+China,origin,12.066,8.5,96,middle
+USA,origin,7.188,21.3,13,high
+India,origin,4.1370000000000005,2.9,137,middle
+Japan,origin,2.638,21.2,15,high
+Brazil,origin,2.443,11.4,73,middle
+Russia,origin,1.9100000000000001,13.2,57,middle
+Indonesia,origin,1.8860000000000001,6.9,109,middle
+Germany,origin,1.7670000000000001,21.2,14,high
+UK,origin,1.6520000000000001,24.5,2,high
+Mexico,origin,1.499,11.8,69,middle
+Other,origin,24.731,NA,NA,NA

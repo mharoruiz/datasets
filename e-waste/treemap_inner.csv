@@ -1,0 +1,184 @@
+country,parent,ewaste,ewaste_capita,rank_capita,income
+Other,,,,,
+France,Other,1.445,22.4,5,high
+Italy,Other,1.124,19,28,high
+Turkey,Other,1.077,12.7,63,middle
+Spain,Other,0.935,19.6,26,high
+Republic of Korea,Other,0.93,17.9,32,high
+Iran,Other,0.8170000000000001,9.3,87,middle
+Canada,Other,0.774,20.2,21,high
+Thailand,Other,0.753,10.5,81,middle
+Egypt,Other,0.6920000000000001,6.3,116,middle
+Saudi Arabia,Other,0.617,17.1,36,high
+Australia,Other,0.583,22.4,4,high
+Pakistan,Other,0.559,2.4,140,middle
+Philippines,Other,0.537,4.7,128,middle
+South Africa,Other,0.527,8.8,92,middle
+Argentina,Other,0.517,11.4,72,middle
+Poland,Other,0.517,13.5,51,high
+Vietnam,Other,0.516,5.3,125,middle
+Nigeria,Other,0.497,2.3,142,middle
+Taiwan,Other,0.463,19.4,27,high
+Malaysia,Other,0.41100000000000003,12.2,65,middle
+Colombia,Other,0.388,7.5,103,middle
+Netherlands,Other,0.387,22.1,8,high
+Ukraine,Other,0.385,8.9,90,middle
+Bangladesh,Other,0.367,2.2,143,middle
+Algeria,Other,0.333,7.5,102,middle
+Venezuela,Other,0.303,10.8,77,NA
+Iraq,Other,0.267,6.1,119,middle
+Belgium,Other,0.252,21.7,10,high
+Romania,Other,0.25,13,60,high
+Chile,Other,0.23,11.7,70,high
+Peru,Other,0.221,6.5,114,middle
+Sweden,Other,0.221,21,16,high
+Switzerland,Other,0.20400000000000001,23.4,3,high
+Kazakhstan,Other,0.196,10.2,83,middle
+Greece,Other,0.194,18.6,30,high
+Portugal,Other,0.183,17.8,34,high
+UAE,Other,0.178,18.9,29,high
+Morocco,Other,0.177,4.8,127,middle
+Austria,Other,0.17500000000000002,19.6,24,high
+Sri Lanka,Other,0.17500000000000002,8,100,middle
+Czech Republic,Other,0.17300000000000001,16.5,39,high
+Hong Kong,Other,0.161,21.6,11,high
+Angola,Other,0.148,4.2,129,middle
+Israel,Other,0.148,16.5,40,high
+Norway,Other,0.145,26.8,1,high
+Hungary,Other,0.138,14.3,47,high
+Denmark,Other,0.131,22.3,7,high
+Uzbekistan,Other,0.128,3.7,131,middle
+Singapore,Other,0.121,20.3,20,high
+Syria,Other,0.121,5.6,123,low
+Finland,Other,0.11800000000000001,21.3,12,high
+Belarus,Other,0.111,11.6,71,middle
+Ecuador,Other,0.108,6,121,middle
+Ireland,Other,0.10300000000000001,20.6,19,high
+Sudan,Other,0.10300000000000001,2.2,146,low
+New Zealand,Other,0.101,19.6,25,high
+Dominican Republic,Other,0.099,8.8,91,middle
+Libya,Other,0.094,13.8,50,middle
+Guatemala,Other,0.092,5.2,126,middle
+Azerbaijan,Other,0.09,8.7,93,middle
+Bulgaria,Other,0.09,13.2,56,middle
+Bolivia,Other,0.089,7.3,105,middle
+Ethiopia,Other,0.088,0.7,180,low
+Kenya,Other,0.088,1.6,149,middle
+Tunisia,Other,0.085,6.9,110,middle
+Slovakia,Other,0.084,15.4,43,high
+Serbia,Other,0.081,11.1,75,middle
+Myanmar,Other,0.076,1.4,157,middle
+Ghana,Other,0.07200000000000001,2.2,144,middle
+Kuwait,Other,0.07100000000000001,16.7,38,high
+Oman,Other,0.07100000000000001,15.7,42,high
+Jordan,Other,0.069,6.1,120,middle
+Costa Rica,Other,0.066,12.7,62,middle
+Puerto Rico,Other,0.065,20,22,high
+Tanzania,Other,0.061,0.9,175,middle
+Lebanon,Other,0.06,10.7,78,middle
+Paraguay,Other,0.057,8.4,97,middle
+DRC,Other,0.056,0.6,185,low
+Croatia,Other,0.054,13.3,55,high
+Panama,Other,0.054,12.4,64,high
+Yemen,Other,0.049,1.5,155,low
+Turkmenistan,Other,0.046,7.1,108,middle
+Qatar,Other,0.044,16.2,41,high
+Uruguay,Other,0.044,12.9,61,high
+Côte d'Ivoire,Other,0.042,1.5,153,middle
+Nepal,Other,0.042,1.4,158,middle
+El Salvador,Other,0.041,6.4,115,middle
+Uganda,Other,0.041,0.9,174,low
+Lithuania,Other,0.037,13.4,53,high
+Honduras,Other,0.036000000000000004,3.5,133,middle
+Slovenia,Other,0.036000000000000004,17,37,high
+Georgia,Other,0.034,8.9,89,middle
+Bosnia and Herzegovina,Other,0.033,10.1,84,middle
+Cameroon,Other,0.033,1.2,163,middle
+Afghanistan,Other,0.032,0.8,176,low
+Lao PDR,Other,0.027,3.6,132,middle
+Bahrain,Other,0.026000000000000002,17.8,33,high
+Cambodia,Other,0.025,1.5,151,middle
+Senegal,Other,0.025,1.5,154,middle
+Albania,Other,0.024,8.3,98,middle
+Trinidad and Tobago,Other,0.024,15.4,44,high
+Botswana,Other,0.023,8.7,94,middle
+Zambia,Other,0.023,1.1,169,middle
+Armenia,Other,0.022,7.8,101,middle
+Latvia,Other,0.022,11.9,68,high
+Gabon,Other,0.021,8.7,95,middle
+Jamaica,Other,0.021,7.4,104,middle
+Nicaragua,Other,0.021,3,136,middle
+Moldova,Other,0.021,6.8,112,middle
+North Macedonia,Other,0.021,10,86,middle
+Mali,Other,0.02,0.9,172,low
+Mongolia,Other,0.02,5.9,122,middle
+Mozambique,Other,0.02,0.6,189,low
+Estonia,Other,0.019,14.2,48,high
+Madagascar,Other,0.019,0.6,188,low
+Equatorial Guinea,Other,0.018000000000000002,10.6,79,middle
+Burkina Faso,Other,0.017,0.8,177,low
+Namibia,Other,0.017,6.8,111,middle
+Zimbabwe,Other,0.017,1.1,170,middle
+Congo,Other,0.016,2.7,138,middle
+Cyprus,Other,0.016,13,58,high
+Mauritius,Other,0.016,12.1,67,middle
+South Sudan,Other,0.015,1.4,159,low
+Benin,Other,0.014,1.1,166,middle
+Guinea,Other,0.014,1,171,middle
+Kyrgyzstan,Other,0.014,2.2,145,middle
+Niger,Other,0.014,0.5,191,low
+Macao,Other,0.013000000000000001,18.5,31,high
+Luxembourg,Other,0.013000000000000001,20.9,17,high
+Papua New Guinea,Other,0.013000000000000001,1.3,162,middle
+Chad,Other,0.012,0.7,178,low
+Haiti,Other,0.012,1.1,167,middle
+Mauritania,Other,0.012,2.7,139,middle
+Tajikistan,Other,0.012,1.2,164,middle
+Malawi,Other,0.011,0.5,190,low
+Rwanda,Other,0.01,0.7,181,low
+Brunei Darussalam,Other,0.009000000000000001,19.9,23,high
+Somalia,Other,0.009000000000000001,0.5,192,low
+Burundi,Other,0.008,0.6,183,low
+Iceland,Other,0.008,22.4,6,high
+Malta,Other,0.008,14.1,49,high
+Montenegro,Other,0.008,13,59,middle
+Togo,Other,0.008,0.9,173,low
+Bahamas,Other,0.007,17.7,35,high
+Fiji,Other,0.007,7.2,106,middle
+Guyana,Other,0.007,8.1,99,high
+Suriname,Other,0.007,11.1,76,middle
+Eswatini,Other,0.007,6.2,118,middle
+Sierra Leone,Other,0.006,0.7,182,low
+Bhutan,Other,0.005,6.7,113,middle
+Maldives,Other,0.005,10,85,middle
+Barbados,Other,0.004,14.7,46,high
+Gambia,Other,0.004,1.4,156,low
+Belize,Other,0.003,7.1,107,middle
+Cape Verde,Other,0.003,5.3,124,middle
+Central African Republic,Other,0.003,0.6,184,low
+Eritrea,Other,0.003,0.7,179,low
+Lesotho,Other,0.003,1.3,161,middle
+Liberia,Other,0.003,0.6,187,low
+Aruba,Other,0.002,20.7,18,high
+Djibouti,Other,0.002,1.7,148,middle
+St. Lucia,Other,0.002,11.4,74,middle
+Timor-Leste,Other,0.002,1.6,150,middle
+Antigua and Barbuda,Other,0.001,13.3,54,high
+Comoros,Other,0.001,1.5,152,middle
+Dominica,Other,0.001,8.9,88,middle
+Grenada,Other,0.001,10.4,82,middle
+Guinea-Bissau,Other,0.001,0.6,186,low
+St. Kitts and Nevis,Other,0.001,15,45,high
+St. Vincent and the Grenadines,Other,0.001,10.6,80,middle
+Samoa,Other,0.001,3.1,134,middle
+San Marino,Other,0.001,22.1,9,high
+Seychelles,Other,0.001,13.5,52,high
+Solomon Islands,Other,0.001,1.1,168,middle
+Kiribati,Other,0,1.3,160,middle
+Marshall Islands,Other,0,3,135,middle
+Micronesia,Other,0,1.9,147,middle
+Nauru,Other,0,6.3,117,high
+Palau,Other,0,12.2,66,middle
+Tonga,Other,0,4,130,middle
+Tuvalu,Other,0,2.4,141,middle
+Vanuatu,Other,0,1.2,165,middle
