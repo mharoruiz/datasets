@@ -1,193 +1,193 @@
-country,region,ewaste_mill_kg,ewaste_kg_capita,collected_recycled_mill_kg,national_policy,epr,collection_target,recycling_target,country_short,income
-Afghanistan,Asia,32,0.8,NA,No,No,No,No,Afghanistan,low
-Albania,Europe,24,8.3,NA,Yes,Yes,No,No,Albania,middle
-Algeria,Africa,333,7.5,NA,No,No,No,No,Algeria,middle
-Angola,Africa,148,4.2,NA,No,No,No,No,Angola,middle
-Antigua and Barb.,Americas,1,13.3,NA,No,No,No,No,Ant. & Barb.,high
-Argentina,Americas,517,11.4,14.4,Yes,Yes,No,No,Argentina,middle
-Armenia,Asia,22,7.8,NA,No,No,No,No,Armenia,middle
-Aruba,Americas,2,20.7,NA,No,No,No,No,Aruba,high
-Australia,Oceania,583,22.4,292.4,Yes,Yes,Yes,Yes,Australia,high
-Austria,Europe,175,19.6,133.2,Yes,Yes,Yes,Yes,Austria,high
-Azerbaijan,Asia,90,8.7,0.01,No,No,No,No,Azerbaijan,middle
-Bahamas,Americas,7,17.7,NA,No,No,No,No,Bahamas,high
-Bahrain,Asia,26,17.8,NA,Yes,No,No,No,Bahrain,high
-Bangladesh,Asia,367,2.2,NA,Yes,Yes,Yes,No,Bangladesh,middle
-Barbados,Americas,4,14.7,NA,No,No,No,No,Barbados,high
-Belarus,Europe,111,11.6,31,Yes,Yes,No,No,Belarus,middle
-Belgium,Europe,252,21.7,162.8,Yes,Yes,Yes,Yes,Belgium,high
-Belize,Americas,3,7.1,NA,No,No,No,No,Belize,middle
-Benin,Africa,14,1.1,NA,No,No,No,No,Benin,middle
-Bhutan,Asia,5,6.7,0.5,No,No,No,No,Bhutan,middle
-Bolivia,Americas,89,7.3,2.4,Yes,Yes,No,No,Bolivia,middle
-Bosnia and Herz.,Europe,33,10.1,4.9,Yes,Yes,Yes,Yes,Bos. & Herz.,middle
-Botswana,Africa,23,8.7,NA,No,No,No,No,Botswana,middle
-Brazil,Americas,2443,11.4,79,Yes,Yes,Yes,No,Brazil,middle
-Brunei,Asia,9,19.9,NA,No,No,No,No,Brunei,high
-Bulgaria,Europe,90,13.2,75.5,Yes,Yes,Yes,Yes,Bulgaria,middle
-Burkina Faso,Africa,17,0.8,NA,No,No,No,No,Burkina Faso,low
-Burundi,Africa,8,0.6,NA,No,No,No,No,Burundi,low
-Cambodia,Asia,25,1.5,NA,Yes,No,No,No,Cambodia,middle
-Cameroon,Africa,33,1.2,0.1,Yes,Yes,No,No,Cameroon,middle
-Canada,Americas,774,20.2,98,Yes,No,No,No,Canada,high
-Cabo Verde,Africa,3,5.3,NA,No,No,No,No,Cabo Verde,middle
-Central African Rep.,Africa,3,0.6,NA,No,No,No,No,C. Afr. Rep.,low
-Chad,Africa,12,0.7,NA,No,No,No,No,Chad,low
-Chile,Americas,230,11.7,7.3,Yes,Yes,No,No,Chile,high
-China,Asia,12066,8.5,1951.7,Yes,Yes,No,Yes,China,middle
-Hong Kong,Asia,161,21.6,71.6,No,No,No,No,Hong Kong,high
-Macao,Asia,13,18.5,NA,No,No,No,No,Macao,high
-Colombia,Americas,388,7.5,4.9,Yes,Yes,No,No,Colombia,middle
-Comoros,Africa,1,1.5,NA,No,No,No,No,Comoros,middle
-Congo,Africa,16,2.7,NA,No,No,No,No,Congo,middle
-Costa Rica,Americas,66,12.7,5.8,Yes,Yes,No,No,Costa Rica,middle
-Croatia,Europe,54,13.3,35.3,Yes,Yes,Yes,Yes,Croatia,high
-Cyprus,Asia,16,13,3.5,Yes,Yes,Yes,Yes,Cyprus,high
-Czechia,Europe,173,16.5,118.9,Yes,Yes,Yes,Yes,Czechia,high
-Côte d'Ivoire,Africa,42,1.5,NA,Yes,Yes,No,No,Côte d'Ivoire,middle
-Dem. Rep. Congo,Africa,56,0.6,NA,No,No,No,No,DRC,low
-Denmark,Europe,131,22.3,79,Yes,Yes,Yes,Yes,Denmark,high
-Djibouti,Africa,2,1.7,NA,No,No,No,No,Djibouti,middle
-Dominica,Americas,1,8.9,NA,No,No,No,No,Dominica,middle
-Dominican Rep.,Americas,99,8.8,NA,Yes,Yes,No,No,Dom. Rep.,middle
-Ecuador,Americas,108,6,3.3,Yes,Yes,Yes,No,Ecuador,middle
-Egypt,Africa,692,6.3,NA,Yes,Yes,No,No,Egypt,middle
-El Salvador,Americas,41,6.4,0.5,No,No,No,No,El Salvador,middle
-Eq. Guinea,Africa,18,10.6,NA,No,No,No,No,Eq. Guinea,middle
-Eritrea,Africa,3,0.7,NA,No,No,No,No,Eritrea,low
-Estonia,Europe,19,14.2,12.4,Yes,Yes,Yes,Yes,Estonia,high
-Ethiopia,Africa,88,0.7,NA,No,No,No,No,Ethiopia,low
-Fiji,Oceania,7,7.2,NA,No,No,No,No,Fiji,middle
-Finland,Europe,118,21.3,89.6,Yes,Yes,Yes,Yes,Finland,high
-France,Europe,1445,22.4,860.7,Yes,Yes,Yes,Yes,France,high
-Gabon,Africa,21,8.7,NA,No,No,No,No,Gabon,middle
-Gambia,Africa,4,1.4,NA,No,No,No,No,Gambia,low
-Georgia,Asia,34,8.9,NA,Yes,Yes,Yes,No,Georgia,middle
-Germany,Europe,1767,21.2,956.6,Yes,Yes,Yes,Yes,Germany,high
-Ghana,Africa,72,2.2,NA,Yes,Yes,No,No,Ghana,middle
-Greece,Europe,194,18.6,58.6,Yes,Yes,Yes,Yes,Greece,high
-Grenada,Americas,1,10.4,NA,No,No,No,No,Grenada,middle
-Guatemala,Americas,92,5.2,1.1,No,No,No,No,Guatemala,middle
-Guinea,Africa,14,1,NA,No,No,No,No,Guinea,middle
-Guinea-Bissau,Africa,1,0.6,NA,No,No,No,No,Guinea-Bissau,low
-Guyana,Americas,7,8.1,NA,No,No,No,No,Guyana,high
-Haiti,Americas,12,1.1,NA,No,No,No,No,Haiti,middle
-Honduras,Americas,36,3.5,0.1,No,No,No,No,Honduras,middle
-Hungary,Europe,138,14.3,90.4,Yes,Yes,Yes,Yes,Hungary,high
-Iceland,Europe,8,22.4,4.8,Yes,Yes,Yes,Yes,Iceland,high
-India,Asia,4137,2.9,59.6,Yes,Yes,Yes,No,India,middle
-Indonesia,Asia,1886,6.9,NA,No,No,No,No,Indonesia,middle
-Iran,Asia,817,9.3,NA,Yes,No,No,No,Iran,middle
-Iraq,Asia,267,6.1,NA,No,No,No,No,Iraq,middle
-Ireland,Europe,103,20.6,67.4,Yes,Yes,Yes,Yes,Ireland,high
-Israel,Asia,148,16.5,72.4,Yes,Yes,No,No,Israel,high
-Italy,Europe,1124,19,461.6,Yes,Yes,Yes,Yes,Italy,high
-Jamaica,Americas,21,7.4,0.1,No,No,No,No,Jamaica,middle
-Japan,Asia,2638,21.2,613.4,Yes,No,No,Yes,Japan,high
-Jordan,Asia,69,6.1,1.6,Yes,No,No,No,Jordan,middle
-Kazakhstan,Asia,196,10.2,12.4,Yes,Yes,Yes,No,Kazakhstan,middle
-Kenya,Africa,88,1.6,NA,No,No,No,No,Kenya,middle
-Kiribati,Oceania,0,1.3,NA,No,No,No,No,Kiribati,middle
-Kuwait,Asia,71,16.7,NA,No,No,No,No,Kuwait,high
-Kyrgyzstan,Asia,14,2.2,NA,No,No,No,No,Kyrgyzstan,middle
-Laos,Asia,27,3.6,NA,No,No,No,No,Laos,middle
-Latvia,Europe,22,11.9,11.6,Yes,Yes,Yes,Yes,Latvia,high
-Lebanon,Asia,60,10.7,0.1,No,No,No,No,Lebanon,middle
-Lesotho,Africa,3,1.3,NA,No,No,No,No,Lesotho,middle
-Liberia,Africa,3,0.6,NA,No,No,No,No,Liberia,low
-Libya,Africa,94,13.8,NA,No,No,No,No,Libya,middle
-Lithuania,Europe,37,13.4,16.7,Yes,Yes,Yes,Yes,Lithuania,high
-Luxembourg,Europe,13,20.9,6.8,Yes,Yes,Yes,Yes,Luxembourg,high
-Madagascar,Africa,19,0.6,NA,Yes,No,No,No,Madagascar,low
-Malawi,Africa,11,0.5,NA,No,No,No,No,Malawi,low
-Malaysia,Asia,411,12.2,NA,Yes,No,No,No,Malaysia,middle
-Maldives,Asia,5,10,NA,No,No,No,No,Maldives,middle
-Mali,Africa,20,0.9,NA,No,No,No,No,Mali,low
-Malta,Europe,8,14.1,3.2,Yes,Yes,Yes,Yes,Malta,high
-Marshall Is.,Oceania,0,3,NA,No,No,No,No,Marshall Is.,middle
-Mauritania,Africa,12,2.7,NA,No,No,No,No,Mauritania,middle
-Mauritius,Africa,16,12.1,0.1,No,No,No,No,Mauritius,middle
-Mexico,Americas,1499,11.8,52.6,Yes,No,No,No,Mexico,middle
-Micronesia,Oceania,0,1.9,NA,No,No,No,No,Micronesia,middle
-Mongolia,Asia,20,5.9,NA,No,No,No,No,Mongolia,middle
-Montenegro,Europe,8,13,0.2,Yes,No,No,No,Montenegro,middle
-Morocco,Africa,177,4.8,NA,No,No,No,No,Morocco,middle
-Mozambique,Africa,20,0.6,NA,No,No,No,No,Mozambique,low
-Myanmar,Asia,76,1.4,NA,No,No,No,No,Myanmar,middle
-Namibia,Africa,17,6.8,0.03,No,No,No,No,Namibia,middle
-Nauru,Oceania,0,6.3,NA,No,No,No,No,Nauru,high
-Nepal,Asia,42,1.4,NA,No,No,No,No,Nepal,middle
-Netherlands,Europe,387,22.1,228.5,Yes,Yes,Yes,Yes,Netherlands,high
-New Zealand,Oceania,101,19.6,NA,No,No,No,No,New Zealand,high
-Nicaragua,Americas,21,3,0.1,No,No,No,No,Nicaragua,middle
-Niger,Africa,14,0.5,NA,No,No,No,No,Niger,low
-Nigeria,Africa,497,2.3,NA,Yes,Yes,Yes,No,Nigeria,middle
-Norway,Europe,145,26.8,107.2,Yes,Yes,Yes,Yes,Norway,high
-Oman,Asia,71,15.7,NA,No,No,No,No,Oman,high
-Pakistan,Asia,559,2.4,NA,No,No,No,No,Pakistan,middle
-Palau,Oceania,0,12.2,NA,No,No,No,No,Palau,middle
-Panama,Americas,54,12.4,0.1,No,No,No,No,Panama,high
-Papua New Guinea,Oceania,13,1.3,NA,No,No,No,No,Papua NG,middle
-Paraguay,Americas,57,8.4,NA,No,No,No,No,Paraguay,middle
-Peru,Americas,221,6.5,3.4,Yes,Yes,Yes,No,Peru,middle
-Philippines,Asia,537,4.7,NA,No,No,No,No,Philippines,middle
-Poland,Europe,517,13.5,417.8,Yes,Yes,Yes,Yes,Poland,high
-Portugal,Europe,183,17.8,60.3,Yes,Yes,Yes,Yes,Portugal,high
-Puerto Rico,Americas,65,20,NA,No,No,No,No,Puerto Rico,high
-Qatar,Asia,44,16.2,0.2,No,No,No,No,Qatar,high
-South Korea,Asia,930,17.9,443.1,Yes,Yes,No,No,South Korea,high
-Moldova,Europe,21,6.8,0.2,Yes,Yes,Yes,No,Moldova,middle
-Romania,Europe,250,13,71.5,Yes,Yes,Yes,Yes,Romania,high
-Russia,Europe,1910,13.2,120.8,Yes,Yes,No,No,Russia,middle
-Rwanda,Africa,10,0.7,2,Yes,Yes,No,No,Rwanda,low
-St. Kitts and Nevis,Americas,1,15,NA,No,No,No,No,St. K. & N.,high
-Saint Lucia,Americas,2,11.4,0.03,No,No,No,No,Saint Lucia,middle
-St. Vin. and Gren.,Americas,1,10.6,NA,No,No,No,No,St. V. & G.,middle
-Samoa,Oceania,1,3.1,NA,No,No,No,No,Samoa,middle
-San Marino,Europe,1,22.1,NA,No,No,No,No,San Marino,high
-Saudi Arabia,Asia,617,17.1,NA,No,No,No,No,Saudi Arabia,high
-Senegal,Africa,25,1.5,NA,No,No,No,No,Senegal,middle
-Serbia,Europe,81,11.1,31.2,Yes,Yes,Yes,No,Serbia,middle
-Seychelles,Africa,1,13.5,NA,No,No,No,No,Seychelles,high
-Sierra Leone,Africa,6,0.7,NA,No,No,No,No,Sierra Leone,low
-Singapore,Asia,121,20.3,NA,Yes,No,Yes,No,Singapore,high
-Slovakia,Europe,84,15.4,47.3,Yes,Yes,Yes,Yes,Slovakia,high
-Slovenia,Europe,36,17,15.1,Yes,Yes,Yes,Yes,Slovenia,high
-Solomon Is.,Oceania,1,1.1,NA,No,No,No,No,Solomon Is.,middle
-Somalia,Africa,9,0.5,NA,No,No,No,No,Somalia,low
-South Africa,Africa,527,8.8,22.9,Yes,Yes,No,No,South Africa,middle
-S. Sudan,Africa,15,1.4,NA,No,No,No,No,S. Sudan,low
-Spain,Europe,935,19.6,395.2,Yes,Yes,Yes,Yes,Spain,high
-Sri Lanka,Asia,175,8,NA,No,No,No,No,Sri Lanka,middle
-Sudan,Africa,103,2.2,NA,No,No,No,No,Sudan,low
-Suriname,Americas,7,11.1,NA,No,No,No,No,Suriname,middle
-eSwatini,Africa,7,6.2,NA,No,No,No,No,eSwatini,middle
-Sweden,Europe,221,21,151.2,Yes,Yes,Yes,Yes,Sweden,high
-Switzerland,Europe,204,23.4,129,Yes,Yes,Yes,Yes,Switzerland,high
-Syria,Asia,121,5.6,NA,No,No,No,No,Syria,low
-Taiwan,Asia,463,19.4,145.4,No,No,No,No,Taiwan,high
-Tajikistan,Asia,12,1.2,0.11,No,No,No,No,Tajikistan,middle
-Thailand,Asia,753,10.5,29,No,No,No,No,Thailand,middle
-Macedonia,Europe,21,10,3.4,Yes,Yes,Yes,No,Macedonia,middle
-Timor-Leste,Asia,2,1.6,NA,No,No,No,No,Timor-Leste,middle
-Togo,Africa,8,0.9,NA,No,No,No,No,Togo,low
-Tonga,Oceania,0,4,NA,No,No,No,No,Tonga,middle
-Trinidad and Tobago,Americas,24,15.4,NA,No,No,No,No,Trin. & Tob.,high
-Tunisia,Africa,85,6.9,NA,No,No,No,No,Tunisia,middle
-Turkey,Asia,1077,12.7,186.9,Yes,Yes,Yes,Yes,Turkey,middle
-Turkmenistan,Asia,46,7.1,NA,No,No,No,No,Turkmenistan,middle
-Tuvalu,Oceania,0,2.4,NA,No,No,No,No,Tuvalu,middle
-Uganda,Africa,41,0.9,0.2,Yes,No,No,No,Uganda,low
-Ukraine,Europe,385,8.9,31.2,Yes,No,No,No,Ukraine,middle
-United Arab Emirates,Asia,178,18.9,5.4,Yes,Yes,No,No,UAE,high
-United Kingdom,Europe,1652,24.5,501.9,Yes,Yes,Yes,Yes,UK,high
-Tanzania,Africa,61,0.9,NA,Yes,Yes,No,No,Tanzania,middle
-United States of America,Americas,7188,21.3,4052.8,Yes,No,No,No,USA,high
-Uruguay,Americas,44,12.9,1.3,No,No,No,No,Uruguay,high
-Uzbekistan,Asia,128,3.7,NA,No,No,No,No,Uzbekistan,middle
-Vanuatu,Oceania,0,1.2,NA,No,No,No,No,Vanuatu,middle
-Venezuela,Americas,303,10.8,1,No,No,No,No,Venezuela,NA
-Vietnam,Asia,516,5.3,NA,Yes,Yes,No,No,Vietnam,middle
-Yemen,Asia,49,1.5,NA,No,No,No,No,Yemen,low
-Zambia,Africa,23,1.1,NA,Yes,Yes,No,No,Zambia,middle
-Zimbabwe,Africa,17,1.1,0.03,No,No,No,No,Zimbabwe,middle
+country,region,ewaste_mill_kg,ewaste_kg_capita,collected_recycled_mill_kg,national_policy,epr,collection_target,recycling_target,country_short,income,policy_level
+Afghanistan,Asia,32,0.8,NA,FALSE,FALSE,FALSE,FALSE,Afghanistan,low,0
+Albania,Europe,24,8.3,NA,TRUE,TRUE,FALSE,FALSE,Albania,middle,2
+Algeria,Africa,333,7.5,NA,FALSE,FALSE,FALSE,FALSE,Algeria,middle,0
+Angola,Africa,148,4.2,NA,FALSE,FALSE,FALSE,FALSE,Angola,middle,0
+Antigua and Barb.,Americas,1,13.3,NA,FALSE,FALSE,FALSE,FALSE,Ant. & Barb.,high,0
+Argentina,Americas,517,11.4,14.4,TRUE,TRUE,FALSE,FALSE,Argentina,middle,2
+Armenia,Asia,22,7.8,NA,FALSE,FALSE,FALSE,FALSE,Armenia,middle,0
+Aruba,Americas,2,20.7,NA,FALSE,FALSE,FALSE,FALSE,Aruba,high,0
+Australia,Oceania,583,22.4,292.4,TRUE,TRUE,TRUE,TRUE,Australia,high,4
+Austria,Europe,175,19.6,133.2,TRUE,TRUE,TRUE,TRUE,Austria,high,4
+Azerbaijan,Asia,90,8.7,0.01,FALSE,FALSE,FALSE,FALSE,Azerbaijan,middle,0
+Bahamas,Americas,7,17.7,NA,FALSE,FALSE,FALSE,FALSE,Bahamas,high,0
+Bahrain,Asia,26,17.8,NA,TRUE,FALSE,FALSE,FALSE,Bahrain,high,1
+Bangladesh,Asia,367,2.2,NA,TRUE,TRUE,TRUE,FALSE,Bangladesh,middle,3
+Barbados,Americas,4,14.7,NA,FALSE,FALSE,FALSE,FALSE,Barbados,high,0
+Belarus,Europe,111,11.6,31,TRUE,TRUE,FALSE,FALSE,Belarus,middle,2
+Belgium,Europe,252,21.7,162.8,TRUE,TRUE,TRUE,TRUE,Belgium,high,4
+Belize,Americas,3,7.1,NA,FALSE,FALSE,FALSE,FALSE,Belize,middle,0
+Benin,Africa,14,1.1,NA,FALSE,FALSE,FALSE,FALSE,Benin,middle,0
+Bhutan,Asia,5,6.7,0.5,FALSE,FALSE,FALSE,FALSE,Bhutan,middle,0
+Bolivia,Americas,89,7.3,2.4,TRUE,TRUE,FALSE,FALSE,Bolivia,middle,2
+Bosnia and Herz.,Europe,33,10.1,4.9,TRUE,TRUE,TRUE,TRUE,Bos. & Herz.,middle,4
+Botswana,Africa,23,8.7,NA,FALSE,FALSE,FALSE,FALSE,Botswana,middle,0
+Brazil,Americas,2443,11.4,79,TRUE,TRUE,TRUE,FALSE,Brazil,middle,3
+Brunei,Asia,9,19.9,NA,FALSE,FALSE,FALSE,FALSE,Brunei,high,0
+Bulgaria,Europe,90,13.2,75.5,TRUE,TRUE,TRUE,TRUE,Bulgaria,middle,4
+Burkina Faso,Africa,17,0.8,NA,FALSE,FALSE,FALSE,FALSE,Burkina Faso,low,0
+Burundi,Africa,8,0.6,NA,FALSE,FALSE,FALSE,FALSE,Burundi,low,0
+Cambodia,Asia,25,1.5,NA,TRUE,FALSE,FALSE,FALSE,Cambodia,middle,1
+Cameroon,Africa,33,1.2,0.1,TRUE,TRUE,FALSE,FALSE,Cameroon,middle,2
+Canada,Americas,774,20.2,98,TRUE,FALSE,FALSE,FALSE,Canada,high,1
+Cabo Verde,Africa,3,5.3,NA,FALSE,FALSE,FALSE,FALSE,Cabo Verde,middle,0
+Central African Rep.,Africa,3,0.6,NA,FALSE,FALSE,FALSE,FALSE,C. Afr. Rep.,low,0
+Chad,Africa,12,0.7,NA,FALSE,FALSE,FALSE,FALSE,Chad,low,0
+Chile,Americas,230,11.7,7.3,TRUE,TRUE,FALSE,FALSE,Chile,high,2
+China,Asia,12066,8.5,1951.7,TRUE,TRUE,FALSE,TRUE,China,middle,3
+Hong Kong,Asia,161,21.6,71.6,FALSE,FALSE,FALSE,FALSE,Hong Kong,high,0
+Macao,Asia,13,18.5,NA,FALSE,FALSE,FALSE,FALSE,Macao,high,0
+Colombia,Americas,388,7.5,4.9,TRUE,TRUE,FALSE,FALSE,Colombia,middle,2
+Comoros,Africa,1,1.5,NA,FALSE,FALSE,FALSE,FALSE,Comoros,middle,0
+Congo,Africa,16,2.7,NA,FALSE,FALSE,FALSE,FALSE,Congo,middle,0
+Costa Rica,Americas,66,12.7,5.8,TRUE,TRUE,FALSE,FALSE,Costa Rica,middle,2
+Croatia,Europe,54,13.3,35.3,TRUE,TRUE,TRUE,TRUE,Croatia,high,4
+Cyprus,Asia,16,13,3.5,TRUE,TRUE,TRUE,TRUE,Cyprus,high,4
+Czechia,Europe,173,16.5,118.9,TRUE,TRUE,TRUE,TRUE,Czechia,high,4
+Côte d'Ivoire,Africa,42,1.5,NA,TRUE,TRUE,FALSE,FALSE,Côte d'Ivoire,middle,2
+Dem. Rep. Congo,Africa,56,0.6,NA,FALSE,FALSE,FALSE,FALSE,DRC,low,0
+Denmark,Europe,131,22.3,79,TRUE,TRUE,TRUE,TRUE,Denmark,high,4
+Djibouti,Africa,2,1.7,NA,FALSE,FALSE,FALSE,FALSE,Djibouti,middle,0
+Dominica,Americas,1,8.9,NA,FALSE,FALSE,FALSE,FALSE,Dominica,middle,0
+Dominican Rep.,Americas,99,8.8,NA,TRUE,TRUE,FALSE,FALSE,Dom. Rep.,middle,2
+Ecuador,Americas,108,6,3.3,TRUE,TRUE,TRUE,FALSE,Ecuador,middle,3
+Egypt,Africa,692,6.3,NA,TRUE,TRUE,FALSE,FALSE,Egypt,middle,2
+El Salvador,Americas,41,6.4,0.5,FALSE,FALSE,FALSE,FALSE,El Salvador,middle,0
+Eq. Guinea,Africa,18,10.6,NA,FALSE,FALSE,FALSE,FALSE,Eq. Guinea,middle,0
+Eritrea,Africa,3,0.7,NA,FALSE,FALSE,FALSE,FALSE,Eritrea,low,0
+Estonia,Europe,19,14.2,12.4,TRUE,TRUE,TRUE,TRUE,Estonia,high,4
+Ethiopia,Africa,88,0.7,NA,FALSE,FALSE,FALSE,FALSE,Ethiopia,low,0
+Fiji,Oceania,7,7.2,NA,FALSE,FALSE,FALSE,FALSE,Fiji,middle,0
+Finland,Europe,118,21.3,89.6,TRUE,TRUE,TRUE,TRUE,Finland,high,4
+France,Europe,1445,22.4,860.7,TRUE,TRUE,TRUE,TRUE,France,high,4
+Gabon,Africa,21,8.7,NA,FALSE,FALSE,FALSE,FALSE,Gabon,middle,0
+Gambia,Africa,4,1.4,NA,FALSE,FALSE,FALSE,FALSE,Gambia,low,0
+Georgia,Asia,34,8.9,NA,TRUE,TRUE,TRUE,FALSE,Georgia,middle,3
+Germany,Europe,1767,21.2,956.6,TRUE,TRUE,TRUE,TRUE,Germany,high,4
+Ghana,Africa,72,2.2,NA,TRUE,TRUE,FALSE,FALSE,Ghana,middle,2
+Greece,Europe,194,18.6,58.6,TRUE,TRUE,TRUE,TRUE,Greece,high,4
+Grenada,Americas,1,10.4,NA,FALSE,FALSE,FALSE,FALSE,Grenada,middle,0
+Guatemala,Americas,92,5.2,1.1,FALSE,FALSE,FALSE,FALSE,Guatemala,middle,0
+Guinea,Africa,14,1,NA,FALSE,FALSE,FALSE,FALSE,Guinea,middle,0
+Guinea-Bissau,Africa,1,0.6,NA,FALSE,FALSE,FALSE,FALSE,Guinea-Bissau,low,0
+Guyana,Americas,7,8.1,NA,FALSE,FALSE,FALSE,FALSE,Guyana,high,0
+Haiti,Americas,12,1.1,NA,FALSE,FALSE,FALSE,FALSE,Haiti,middle,0
+Honduras,Americas,36,3.5,0.1,FALSE,FALSE,FALSE,FALSE,Honduras,middle,0
+Hungary,Europe,138,14.3,90.4,TRUE,TRUE,TRUE,TRUE,Hungary,high,4
+Iceland,Europe,8,22.4,4.8,TRUE,TRUE,TRUE,TRUE,Iceland,high,4
+India,Asia,4137,2.9,59.6,TRUE,TRUE,TRUE,FALSE,India,middle,3
+Indonesia,Asia,1886,6.9,NA,FALSE,FALSE,FALSE,FALSE,Indonesia,middle,0
+Iran,Asia,817,9.3,NA,TRUE,FALSE,FALSE,FALSE,Iran,middle,1
+Iraq,Asia,267,6.1,NA,FALSE,FALSE,FALSE,FALSE,Iraq,middle,0
+Ireland,Europe,103,20.6,67.4,TRUE,TRUE,TRUE,TRUE,Ireland,high,4
+Israel,Asia,148,16.5,72.4,TRUE,TRUE,FALSE,FALSE,Israel,high,2
+Italy,Europe,1124,19,461.6,TRUE,TRUE,TRUE,TRUE,Italy,high,4
+Jamaica,Americas,21,7.4,0.1,FALSE,FALSE,FALSE,FALSE,Jamaica,middle,0
+Japan,Asia,2638,21.2,613.4,TRUE,FALSE,FALSE,TRUE,Japan,high,2
+Jordan,Asia,69,6.1,1.6,TRUE,FALSE,FALSE,FALSE,Jordan,middle,1
+Kazakhstan,Asia,196,10.2,12.4,TRUE,TRUE,TRUE,FALSE,Kazakhstan,middle,3
+Kenya,Africa,88,1.6,NA,FALSE,FALSE,FALSE,FALSE,Kenya,middle,0
+Kiribati,Oceania,0,1.3,NA,FALSE,FALSE,FALSE,FALSE,Kiribati,middle,0
+Kuwait,Asia,71,16.7,NA,FALSE,FALSE,FALSE,FALSE,Kuwait,high,0
+Kyrgyzstan,Asia,14,2.2,NA,FALSE,FALSE,FALSE,FALSE,Kyrgyzstan,middle,0
+Laos,Asia,27,3.6,NA,FALSE,FALSE,FALSE,FALSE,Laos,middle,0
+Latvia,Europe,22,11.9,11.6,TRUE,TRUE,TRUE,TRUE,Latvia,high,4
+Lebanon,Asia,60,10.7,0.1,FALSE,FALSE,FALSE,FALSE,Lebanon,middle,0
+Lesotho,Africa,3,1.3,NA,FALSE,FALSE,FALSE,FALSE,Lesotho,middle,0
+Liberia,Africa,3,0.6,NA,FALSE,FALSE,FALSE,FALSE,Liberia,low,0
+Libya,Africa,94,13.8,NA,FALSE,FALSE,FALSE,FALSE,Libya,middle,0
+Lithuania,Europe,37,13.4,16.7,TRUE,TRUE,TRUE,TRUE,Lithuania,high,4
+Luxembourg,Europe,13,20.9,6.8,TRUE,TRUE,TRUE,TRUE,Luxembourg,high,4
+Madagascar,Africa,19,0.6,NA,TRUE,FALSE,FALSE,FALSE,Madagascar,low,1
+Malawi,Africa,11,0.5,NA,FALSE,FALSE,FALSE,FALSE,Malawi,low,0
+Malaysia,Asia,411,12.2,NA,TRUE,FALSE,FALSE,FALSE,Malaysia,middle,1
+Maldives,Asia,5,10,NA,FALSE,FALSE,FALSE,FALSE,Maldives,middle,0
+Mali,Africa,20,0.9,NA,FALSE,FALSE,FALSE,FALSE,Mali,low,0
+Malta,Europe,8,14.1,3.2,TRUE,TRUE,TRUE,TRUE,Malta,high,4
+Marshall Is.,Oceania,0,3,NA,FALSE,FALSE,FALSE,FALSE,Marshall Is.,middle,0
+Mauritania,Africa,12,2.7,NA,FALSE,FALSE,FALSE,FALSE,Mauritania,middle,0
+Mauritius,Africa,16,12.1,0.1,FALSE,FALSE,FALSE,FALSE,Mauritius,middle,0
+Mexico,Americas,1499,11.8,52.6,TRUE,FALSE,FALSE,FALSE,Mexico,middle,1
+Micronesia,Oceania,0,1.9,NA,FALSE,FALSE,FALSE,FALSE,Micronesia,middle,0
+Mongolia,Asia,20,5.9,NA,FALSE,FALSE,FALSE,FALSE,Mongolia,middle,0
+Montenegro,Europe,8,13,0.2,TRUE,FALSE,FALSE,FALSE,Montenegro,middle,1
+Morocco,Africa,177,4.8,NA,FALSE,FALSE,FALSE,FALSE,Morocco,middle,0
+Mozambique,Africa,20,0.6,NA,FALSE,FALSE,FALSE,FALSE,Mozambique,low,0
+Myanmar,Asia,76,1.4,NA,FALSE,FALSE,FALSE,FALSE,Myanmar,middle,0
+Namibia,Africa,17,6.8,0.03,FALSE,FALSE,FALSE,FALSE,Namibia,middle,0
+Nauru,Oceania,0,6.3,NA,FALSE,FALSE,FALSE,FALSE,Nauru,high,0
+Nepal,Asia,42,1.4,NA,FALSE,FALSE,FALSE,FALSE,Nepal,middle,0
+Netherlands,Europe,387,22.1,228.5,TRUE,TRUE,TRUE,TRUE,Netherlands,high,4
+New Zealand,Oceania,101,19.6,NA,FALSE,FALSE,FALSE,FALSE,New Zealand,high,0
+Nicaragua,Americas,21,3,0.1,FALSE,FALSE,FALSE,FALSE,Nicaragua,middle,0
+Niger,Africa,14,0.5,NA,FALSE,FALSE,FALSE,FALSE,Niger,low,0
+Nigeria,Africa,497,2.3,NA,TRUE,TRUE,TRUE,FALSE,Nigeria,middle,3
+Norway,Europe,145,26.8,107.2,TRUE,TRUE,TRUE,TRUE,Norway,high,4
+Oman,Asia,71,15.7,NA,FALSE,FALSE,FALSE,FALSE,Oman,high,0
+Pakistan,Asia,559,2.4,NA,FALSE,FALSE,FALSE,FALSE,Pakistan,middle,0
+Palau,Oceania,0,12.2,NA,FALSE,FALSE,FALSE,FALSE,Palau,middle,0
+Panama,Americas,54,12.4,0.1,FALSE,FALSE,FALSE,FALSE,Panama,high,0
+Papua New Guinea,Oceania,13,1.3,NA,FALSE,FALSE,FALSE,FALSE,Papua NG,middle,0
+Paraguay,Americas,57,8.4,NA,FALSE,FALSE,FALSE,FALSE,Paraguay,middle,0
+Peru,Americas,221,6.5,3.4,TRUE,TRUE,TRUE,FALSE,Peru,middle,3
+Philippines,Asia,537,4.7,NA,FALSE,FALSE,FALSE,FALSE,Philippines,middle,0
+Poland,Europe,517,13.5,417.8,TRUE,TRUE,TRUE,TRUE,Poland,high,4
+Portugal,Europe,183,17.8,60.3,TRUE,TRUE,TRUE,TRUE,Portugal,high,4
+Puerto Rico,Americas,65,20,NA,FALSE,FALSE,FALSE,FALSE,Puerto Rico,high,0
+Qatar,Asia,44,16.2,0.2,FALSE,FALSE,FALSE,FALSE,Qatar,high,0
+South Korea,Asia,930,17.9,443.1,TRUE,TRUE,FALSE,FALSE,South Korea,high,2
+Moldova,Europe,21,6.8,0.2,TRUE,TRUE,TRUE,FALSE,Moldova,middle,3
+Romania,Europe,250,13,71.5,TRUE,TRUE,TRUE,TRUE,Romania,high,4
+Russia,Europe,1910,13.2,120.8,TRUE,TRUE,FALSE,FALSE,Russia,middle,2
+Rwanda,Africa,10,0.7,2,TRUE,TRUE,FALSE,FALSE,Rwanda,low,2
+St. Kitts and Nevis,Americas,1,15,NA,FALSE,FALSE,FALSE,FALSE,St. K. & N.,high,0
+Saint Lucia,Americas,2,11.4,0.03,FALSE,FALSE,FALSE,FALSE,Saint Lucia,middle,0
+St. Vin. and Gren.,Americas,1,10.6,NA,FALSE,FALSE,FALSE,FALSE,St. V. & G.,middle,0
+Samoa,Oceania,1,3.1,NA,FALSE,FALSE,FALSE,FALSE,Samoa,middle,0
+San Marino,Europe,1,22.1,NA,FALSE,FALSE,FALSE,FALSE,San Marino,high,0
+Saudi Arabia,Asia,617,17.1,NA,FALSE,FALSE,FALSE,FALSE,Saudi Arabia,high,0
+Senegal,Africa,25,1.5,NA,FALSE,FALSE,FALSE,FALSE,Senegal,middle,0
+Serbia,Europe,81,11.1,31.2,TRUE,TRUE,TRUE,FALSE,Serbia,middle,3
+Seychelles,Africa,1,13.5,NA,FALSE,FALSE,FALSE,FALSE,Seychelles,high,0
+Sierra Leone,Africa,6,0.7,NA,FALSE,FALSE,FALSE,FALSE,Sierra Leone,low,0
+Singapore,Asia,121,20.3,NA,TRUE,FALSE,TRUE,FALSE,Singapore,high,2
+Slovakia,Europe,84,15.4,47.3,TRUE,TRUE,TRUE,TRUE,Slovakia,high,4
+Slovenia,Europe,36,17,15.1,TRUE,TRUE,TRUE,TRUE,Slovenia,high,4
+Solomon Is.,Oceania,1,1.1,NA,FALSE,FALSE,FALSE,FALSE,Solomon Is.,middle,0
+Somalia,Africa,9,0.5,NA,FALSE,FALSE,FALSE,FALSE,Somalia,low,0
+South Africa,Africa,527,8.8,22.9,TRUE,TRUE,FALSE,FALSE,South Africa,middle,2
+S. Sudan,Africa,15,1.4,NA,FALSE,FALSE,FALSE,FALSE,S. Sudan,low,0
+Spain,Europe,935,19.6,395.2,TRUE,TRUE,TRUE,TRUE,Spain,high,4
+Sri Lanka,Asia,175,8,NA,FALSE,FALSE,FALSE,FALSE,Sri Lanka,middle,0
+Sudan,Africa,103,2.2,NA,FALSE,FALSE,FALSE,FALSE,Sudan,low,0
+Suriname,Americas,7,11.1,NA,FALSE,FALSE,FALSE,FALSE,Suriname,middle,0
+eSwatini,Africa,7,6.2,NA,FALSE,FALSE,FALSE,FALSE,eSwatini,middle,0
+Sweden,Europe,221,21,151.2,TRUE,TRUE,TRUE,TRUE,Sweden,high,4
+Switzerland,Europe,204,23.4,129,TRUE,TRUE,TRUE,TRUE,Switzerland,high,4
+Syria,Asia,121,5.6,NA,FALSE,FALSE,FALSE,FALSE,Syria,low,0
+Taiwan,Asia,463,19.4,145.4,FALSE,FALSE,FALSE,FALSE,Taiwan,high,0
+Tajikistan,Asia,12,1.2,0.11,FALSE,FALSE,FALSE,FALSE,Tajikistan,middle,0
+Thailand,Asia,753,10.5,29,FALSE,FALSE,FALSE,FALSE,Thailand,middle,0
+Macedonia,Europe,21,10,3.4,TRUE,TRUE,TRUE,FALSE,Macedonia,middle,3
+Timor-Leste,Asia,2,1.6,NA,FALSE,FALSE,FALSE,FALSE,Timor-Leste,middle,0
+Togo,Africa,8,0.9,NA,FALSE,FALSE,FALSE,FALSE,Togo,low,0
+Tonga,Oceania,0,4,NA,FALSE,FALSE,FALSE,FALSE,Tonga,middle,0
+Trinidad and Tobago,Americas,24,15.4,NA,FALSE,FALSE,FALSE,FALSE,Trin. & Tob.,high,0
+Tunisia,Africa,85,6.9,NA,FALSE,FALSE,FALSE,FALSE,Tunisia,middle,0
+Turkey,Asia,1077,12.7,186.9,TRUE,TRUE,TRUE,TRUE,Turkey,middle,4
+Turkmenistan,Asia,46,7.1,NA,FALSE,FALSE,FALSE,FALSE,Turkmenistan,middle,0
+Tuvalu,Oceania,0,2.4,NA,FALSE,FALSE,FALSE,FALSE,Tuvalu,middle,0
+Uganda,Africa,41,0.9,0.2,TRUE,FALSE,FALSE,FALSE,Uganda,low,1
+Ukraine,Europe,385,8.9,31.2,TRUE,FALSE,FALSE,FALSE,Ukraine,middle,1
+United Arab Emirates,Asia,178,18.9,5.4,TRUE,TRUE,FALSE,FALSE,UAE,high,2
+United Kingdom,Europe,1652,24.5,501.9,TRUE,TRUE,TRUE,TRUE,UK,high,4
+Tanzania,Africa,61,0.9,NA,TRUE,TRUE,FALSE,FALSE,Tanzania,middle,2
+United States of America,Americas,7188,21.3,4052.8,TRUE,FALSE,FALSE,FALSE,USA,high,1
+Uruguay,Americas,44,12.9,1.3,FALSE,FALSE,FALSE,FALSE,Uruguay,high,0
+Uzbekistan,Asia,128,3.7,NA,FALSE,FALSE,FALSE,FALSE,Uzbekistan,middle,0
+Vanuatu,Oceania,0,1.2,NA,FALSE,FALSE,FALSE,FALSE,Vanuatu,middle,0
+Venezuela,Americas,303,10.8,1,FALSE,FALSE,FALSE,FALSE,Venezuela,NA,0
+Vietnam,Asia,516,5.3,NA,TRUE,TRUE,FALSE,FALSE,Vietnam,middle,2
+Yemen,Asia,49,1.5,NA,FALSE,FALSE,FALSE,FALSE,Yemen,low,0
+Zambia,Africa,23,1.1,NA,TRUE,TRUE,FALSE,FALSE,Zambia,middle,2
+Zimbabwe,Africa,17,1.1,0.03,FALSE,FALSE,FALSE,FALSE,Zimbabwe,middle,0
